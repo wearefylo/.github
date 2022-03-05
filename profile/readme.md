@@ -6,6 +6,6 @@
   <br />
 </div>
 
-<p>We are <strong>fylo</strong>, a group of self-taught programmer. Founded on 2022.
+<p>We are <strong>fylo</strong>, a group of self-taught develover. Founded on 2022.
 </p>
 <p>For any inquiries, <a href="mailto:naufalizeds@gmail.com">click here</a></p>
